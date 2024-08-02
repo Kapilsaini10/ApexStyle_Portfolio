@@ -9,4 +9,4 @@ Features
 About Me: A section introducing myself, my background, and my skills.
 Projects: Showcasing my projects with descriptions, images, and links to live demos or GitHub repositories.
 Skills: Highlighting my technical skills and expertise.
-Contact: A contact form or information for visitors to get in touch with m
+Contact: A contact form or information for visitors to get in touch with me.
